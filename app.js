@@ -1,3 +1,16 @@
+/**
+ * To recreate the project:
+ * npm init
+ * npm install express
+ * node app.js
+ * 
+ * To run this project:
+ * npm install
+ * npm run start
+ * 
+ * Use postman or any service to send requests 
+ */
+
 const express = require("express");
 
 const db = require("./db.json");
