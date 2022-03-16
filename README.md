@@ -41,6 +41,10 @@ You could add as a script inside package.json the following:
 
 `"start": "node app.js"`
 
+To run it as:
+
+`npm run start`
+
 Now you can start building your API!
 
 ## Comments
